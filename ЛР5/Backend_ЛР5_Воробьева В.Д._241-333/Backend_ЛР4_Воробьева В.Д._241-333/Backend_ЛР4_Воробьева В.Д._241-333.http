@@ -1,6 +1,0 @@
-@Backend_ЛР4_Воробьева_В.Д._241_333_HostAddress = http://localhost:5102
-
-GET {{Backend_ЛР4_Воробьева_В.Д._241_333_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
