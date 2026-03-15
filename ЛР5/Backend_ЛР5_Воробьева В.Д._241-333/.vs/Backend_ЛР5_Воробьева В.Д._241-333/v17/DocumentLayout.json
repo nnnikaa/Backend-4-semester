@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vorob\\source\\repos\\Backend_\u041B\u04205_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vorob\\source\\repos\\Backend_\u041B\u04205_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Student\\Contract\\StudentUpsertRequestContract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Student\\Contract\\StudentUpsertRequestContract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vorob\\source\\repos\\Backend_\u041B\u04205_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Product\\Contract\\ProductUpsertRequestContract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Product\\Contract\\ProductUpsertRequestContract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vorob\\source\\repos\\Backend_\u041B\u04205_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Student\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Student\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductUpsertRequestContract.cs",
+              "DocumentMoniker": "C:\\Users\\vorob\\source\\repos\\Backend_\u041B\u04205_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Product\\Contract\\ProductUpsertRequestContract.cs",
+              "RelativeDocumentMoniker": "Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Product\\Contract\\ProductUpsertRequestContract.cs",
+              "ToolTip": "C:\\Users\\vorob\\source\\repos\\Backend_\u041B\u04205_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Product\\Contract\\ProductUpsertRequestContract.cs",
+              "RelativeToolTip": "Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Product\\Contract\\ProductUpsertRequestContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:12:55.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentUpsertRequestContract.cs",
+              "DocumentMoniker": "C:\\Users\\vorob\\source\\repos\\Backend_\u041B\u04205_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Student\\Contract\\StudentUpsertRequestContract.cs",
+              "RelativeDocumentMoniker": "Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Student\\Contract\\StudentUpsertRequestContract.cs",
+              "ToolTip": "C:\\Users\\vorob\\source\\repos\\Backend_\u041B\u04205_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Student\\Contract\\StudentUpsertRequestContract.cs",
+              "RelativeToolTip": "Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Student\\Contract\\StudentUpsertRequestContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:09:01.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\vorob\\source\\repos\\Backend_\u041B\u04205_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Student\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Student\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\vorob\\source\\repos\\Backend_\u041B\u04205_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Student\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Backend_\u041B\u04204_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430 \u0412.\u0414._241-333\\Api\\Student\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:09:00.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
