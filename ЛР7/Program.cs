@@ -1,4 +1,4 @@
-using Backend_ЛР7_Воробьева_В.Д._241_333;
+using Backend_ЛР7_;
 using System.Diagnostics;
 using System.Net.Mime;
 

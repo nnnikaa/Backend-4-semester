@@ -1,4 +1,4 @@
-﻿namespace Backend_ЛР7_Воробьева_В.Д._241_333
+﻿namespace Backend_ЛР7_
 {
     public class BlockPathMiddleware : IMiddleware
     {
