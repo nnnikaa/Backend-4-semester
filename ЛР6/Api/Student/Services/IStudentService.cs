@@ -1,6 +1,6 @@
-﻿using Backend_ЛР6_Воробьева_В.Д._241_333.Api.Student.Controllers;
+﻿using Backend_ЛР6_.Api.Student.Controllers;
 
-namespace Backend_ЛР6_Воробьева_В.Д._241_333.Api.Student.Services
+namespace Backend_ЛР6_.Api.Student.Services
 {
     public interface IStudentService
     {

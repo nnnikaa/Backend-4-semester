@@ -1,5 +1,5 @@
-using Backend_ЛР6_Воробьева_В.Д._241_333.Api.Student.Repositories;
-using Backend_ЛР6_Воробьева_В.Д._241_333.Api.Student.Services;
+using Backend_ЛР6_.Api.Student.Repositories;
+using Backend_ЛР6_.Api.Student.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

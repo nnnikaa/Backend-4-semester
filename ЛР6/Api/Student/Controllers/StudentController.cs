@@ -1,10 +1,10 @@
-﻿using Backend_ЛР6_Воробьева_В.Д._241_333.Api.Student.Repositories;
-using Backend_ЛР6_Воробьева_В.Д._241_333.Api.Student.Services;
+﻿using Backend_ЛР6_.Api.Student.Repositories;
+using Backend_.Api.Student.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Net.Cache;
 using System.Text.RegularExpressions;
 
-namespace Backend_ЛР6_Воробьева_В.Д._241_333.Api.Student.Controllers
+namespace Backend_ЛР6_.Api.Student.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
