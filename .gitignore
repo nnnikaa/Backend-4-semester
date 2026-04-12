@@ -1,0 +1,11 @@
+# Visual Studio user files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+*.futdcache.v2
+
+# Visual Studio folders
+.vs/

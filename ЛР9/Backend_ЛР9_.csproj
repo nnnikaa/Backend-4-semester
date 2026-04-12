@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>Backend_ЛР9_Воробьева_В.Д._241_333</RootNamespace>
+    <RootNamespace>Backend_ЛР9_</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
