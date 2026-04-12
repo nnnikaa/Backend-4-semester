@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace BackEnd_ЛР10_Воробьева_В.Д._241_333.Api.Student.Contract
+namespace BackEnd_ЛР10_.Api.Student.Contract
 {
     public class StudentUpsertRequestContract
     {

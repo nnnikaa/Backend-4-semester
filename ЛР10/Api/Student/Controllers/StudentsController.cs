@@ -1,11 +1,11 @@
-﻿using BackEnd_ЛР10_Воробьева_В.Д._241_333.Api.Student.Contract;
+﻿using BackEnd_ЛР10_.Api.Student.Contract;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Data.Common;
 using System.Net.Cache;
 using System.Text.RegularExpressions;
 
-namespace BackEnd_ЛР10_Воробьева_В.Д._241_333.Api.Student.Controllers
+namespace BackEnd_ЛР10_.Api.Student.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
