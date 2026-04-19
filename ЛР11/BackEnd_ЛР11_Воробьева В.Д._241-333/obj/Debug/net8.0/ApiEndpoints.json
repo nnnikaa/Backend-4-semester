@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "BackEnd_\u041B\u042011_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430_\u0412.\u0414._241_333.Api.Student.Controllers.StudentsController",
+    "Method": "Create",
+    "RelativePath": "api/Students",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contract",
+        "Type": "BackEnd_\u041B\u042011_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430_\u0412.\u0414._241_333.Api.Student.Contract.StudentUpsertRequestContract",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackEnd_\u041B\u042011_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430_\u0412.\u0414._241_333.Api.Student.Controllers.StudentsController",
+    "Method": "StudentGen",
+    "RelativePath": "api/Students/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackEnd_\u041B\u042011_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430_\u0412.\u0414._241_333.Api.Student.Controllers.StudentsController",
+    "Method": "Update",
+    "RelativePath": "api/Students/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "contract",
+        "Type": "BackEnd_\u041B\u042011_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430_\u0412.\u0414._241_333.Api.Student.Contract.StudentUpsertRequestContract",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackEnd_\u041B\u042011_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430_\u0412.\u0414._241_333.Api.Student.Controllers.StudentsController",
+    "Method": "Delete",
+    "RelativePath": "api/Students/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackEnd_\u041B\u042011_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430_\u0412.\u0414._241_333.Api.Student.Controllers.StudentsController",
+    "Method": "GetAllStudents",
+    "RelativePath": "api/Students/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "BackEnd_\u041B\u042011_\u0412\u043E\u0440\u043E\u0431\u044C\u0435\u0432\u0430_\u0412.\u0414._241_333.Api.Student.Contract.StudentResponseContract[]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
