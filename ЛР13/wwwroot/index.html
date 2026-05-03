@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Frontend + ASP.NET Core</title>
+    <link rel="stylesheet" href="/css/site.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Панель управления</h1>
+
+        <div class="buttons">
+            <button id="btnStudents">Получить студентов</button>
+            <button id="btnCourses">Получить курсы</button>
+            <button id="btnEnrollments">Получить записи</button>
+        </div>
+
+        <div class="form">
+            <h2>Добавить студента</h2>
+            <input id="courseUid" type="text" placeholder="Uid курса">
+            <input id="studentName" type="text" placeholder="Имя">
+            <input id="studentSurname" type="text" placeholder="Фамилия">
+            <input id="studentAge" type="number" placeholder="Возраст">
+            <input id="studentGroup" type="number" placeholder="Группа">
+            <button id="btnAddStudent">Добавить</button>
+        </div>
+
+        <div class="output">
+            <h2>Результат</h2>
+            <pre id="result"></pre>
+        </div>
+    </div>
+
+    <script src="/js/app.js"></script>
+</body>
+</html>
