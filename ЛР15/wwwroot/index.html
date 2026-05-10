@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Currency Tracker</title>
+    <link rel="stylesheet" href="site.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Курсы валют</h1>
+
+        <div class="card">
+            <h2>Выбор валюты</h2>
+
+            <select id="currencySelect">
+                <option value="">-- Выберите валюту --</option>
+                <option value="RUB">RUB (Рубли)</option>
+                <option value="CNY">CNY (Юани)</option>
+                <option value="USD">USD (Доллары)</option>
+                <option value="EUR">EUR (Евро)</option>
+                <option value="GBP">GBP (Фунты)</option>
+                <option value="JPY">JPY (Йены)</option>
+            </select>
+
+            <button id="showRateBtn">Показать курс</button>
+
+            <div id="resultBox" class="result-box hidden">
+                <p id="resultText"></p>
+            </div>
+        </div>
+
+        <div id="status" class="status"></div>
+
+
+        <div class="card">
+            <h3 id="resultText">Cookie (HttpOnly)</h3>
+            <p>Сейчас выбрана валюта:</p>
+            <p id="currencySelected">-</p>
+        </div>
+
+
+        <div class="card">
+            <h3 id="resultText">Server Session</h3>
+            <p>Предыдущая валюта (читает сервер):</p>
+            <p id="currencyHistory">-</p>
+        </div>
+        
+        <div class="card">
+            <h3>Session Storage</h3>
+            <p>Запросов на вкладке:</p>
+            <p id="sessionCount">0</p>
+        </div>
+
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
